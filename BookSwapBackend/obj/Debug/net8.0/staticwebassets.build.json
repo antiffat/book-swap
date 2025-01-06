@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "cqVtqUUM4OQwOSntlVqHhVfPrq5a4mag2nH9C1oUybY=",
+  "Source": "BookSwapBackend",
+  "BasePath": "_content/BookSwapBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
